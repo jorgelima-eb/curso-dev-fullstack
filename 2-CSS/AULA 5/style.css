@@ -1,0 +1,19 @@
+body{
+    background-color: #dfdfdf;
+}
+h3{
+color: rgb(34,34,34)
+}
+
+.foto{
+    width: 200px;
+   
+    border: 2px solid #ffffff;  /* shorthand */
+    border-radius: 50%;
+    /* 
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-bottom: 500px;
+    */
+   margin: 30px 30px 30px 30px;
+}      /* top :right botton :left */

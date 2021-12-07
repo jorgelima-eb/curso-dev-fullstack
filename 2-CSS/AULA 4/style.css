@@ -1,0 +1,17 @@
+body{
+    background-color: #dfdfdf;
+}
+h3{
+color: rgb(34,34,34)
+}
+
+.foto{
+    width: 200px;
+    border: 2px solid #ffffff;  /* shorthand */
+    border-radius: 50%;
+    /*
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    /*
+}
